@@ -1,0 +1,12 @@
+Bu proje %100 tamamlanmamış olup ekran resimlerinden de görmüş olduğunuz gibi ana montaj tamamlanmıştır.
+
+Geriye:
+Ana montajın 3D yazıcılarda yazılacak şekilde parçalarının oluşturulması, Parçalar arasındaki connectlerin test
+baskılarıyla iyileştirilmesi
+kontrol yüzeyleri ile uçak gövdesi arasındaki küçük boşluğu kaplıyacak filamentin test baskılarıyla uçağın hareket
+kabiliyetini ne kadar kısıtlayıp kısıtlamadığı
+
+Kalmıştır.
+
+NOT:
+Uçakta hafiflik kritik öneme sahip olduğu için duvar kalınlıgını 0.4mm ve infill oranını %10 civarlarında alınması önerilir.
