@@ -1,0 +1,12 @@
+Bu proje %100 bitmiş olup dosyada projenin en kapsamlı montajıyla beraberher bir parçasının 3D modeli de verilmiştir.
+İlgili parçaların 3D yazıcıda bastırılması için .slt formatına dönüştürme işlemi kullanıcıya bırakılmıştır.
+Bu proje, 13 tane 3mm'lik saç vidası kullanılarak olusturulması planlanılmıştır ancak 9 saç vidası da iş görmektedir.
+Elektrikli süpürgenin daha estetik durması için ana kabuk, ana kabuk karşılığı ve toz haznesi gibi her bir parçanın farklı
+renklerde bastırılması önerilir.
+
+NOT:
+Toz haznesi iki parçadan oluşup, snap-fit geometrisi ile çıkar tak tasarı benimsenmiştir. bu iki parça arasında bazı yerlerde
+boşluklar olmasına ragmen, operasyon sırasında bütün toz filtre ve fitre yuvasında toplandıgı için geliştirilmesi lüzum görülmemiştir
+ancak snap fit geometrisini daha geniş bir alana yayarsanız bu boşlugun boyutu da azalıcaktır.
+
+Toz haznesi ve boru, twist lock geometrisi sayesinde döndürerek kitlenir.
